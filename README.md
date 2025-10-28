@@ -56,7 +56,7 @@ If you’d like, you can check out the full list of tools and technologies I’v
 
 ### Most used languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbjr369&langs_count=10&layout=compact&theme=radical)](https://github.com/alexbleggijr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbleggijr&langs_count=10&layout=compact&theme=radical)](https://github.com/alexbleggijr/github-readme-stats)
 
 ## Knowledge
 
