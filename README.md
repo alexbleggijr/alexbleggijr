@@ -18,7 +18,7 @@ Hi there! 👋 I’m Alex, a Front-End Developer with over 11 years of experienc
 
 ### Currently studying:
 
-<img align="center" alt="JavaScript" height="20" width="20" src="icons/javascript.svg"> [`JavaScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+<img align="center" alt="JavaScript" height="20" width="20" src="![icons/javascript.svg](https://raw.githubusercontent.com/alexbleggijr/alexbleggijr/main/icons/javascript.svg)"> [`JavaScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ### Currently working with:
 
