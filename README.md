@@ -163,8 +163,8 @@ Relevant courses completed.
 
 Selected personal and academic projects.
 
-### Personal Projects
+### Personal Projects:
 
-### Course Projects
+### Course Projects:
 
 </details>
