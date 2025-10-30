@@ -127,7 +127,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Tailwind`](https://tailwindcss.com/)
 - [`Radix UI`](https://www.radix-ui.com/)
 
-## Icon libraries
+### Icon libraries
 
 - [`lucide`](https://lucide.dev/icons/)
 
