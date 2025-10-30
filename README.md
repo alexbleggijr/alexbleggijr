@@ -120,29 +120,29 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Auto Animate`](https://auto-animate.formkit.com/)
 - [`Framer Motion`](https://framermotionexamples.com/about)
 
-### UI Libraries/Frameworks
+### UI Libraries/Frameworks:
 
 - [`Bootstrap`](https://getbootstrap.com)
 - [`Ionic Components`](https://ionicframework.com)
 - [`Tailwind`](https://tailwindcss.com/)
 - [`Radix UI`](https://www.radix-ui.com/)
 
-### Icon Libraries
+### Icon Libraries:
 
 - [`lucide`](https://lucide.dev/icons/)
 
-### Methodologies/Guidelines
+### Methodologies/Guidelines:
 
 - [`BEM Methodology`](https://en.bem.info/methodology)
 - [`Sass Guidelines`](https://sass-guidelin.es)
 
-### Documentation
+### Documentation:
 
 - [`SassDoc`](http://sassdoc.com)
 - [`Storybook`](https://storybook.js.org)
 - [`Docusaurus`](https://docusaurus.io)
 
-### Design Tools
+### Design Tools:
 
 - [`Adobe Photoshop`](https://www.adobe.com/br/products/photoshop.html)
 - [`Adobe Illustrator`](https://www.adobe.com/br/products/illustrator.html)
