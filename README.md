@@ -178,8 +178,8 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 Selected personal and academic projects.
 
-### Personal Projects
+### Personal Projects:
 
-### Course Projects
+### Course Projects:
 
 </details>
