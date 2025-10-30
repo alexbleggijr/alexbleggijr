@@ -2,7 +2,7 @@
 
 Hi there! 👋 I’m Alex, a Front-End Developer with over 11 years of experience building for the web. I’m passionate about **UI/UX** and **Design Systems**, bridging the gap between design and development to craft scalable, intuitive, and visually cohesive user experiences. Currently based in Brazil, I'm always exploring new ways to create elegant interfaces and improve design-to-code workflows.
 
-Currently leading a multidisciplinary team of 4 designers and 4 front-end developers dedicated to improving UI/UX across Medgrupo's digital products. Responsible for defining design systems, developing reusable components, and crafting interaction patterns, animations, and gestures that elevate the user experience and ensure visual consistency across all platforms.
+Currently leading a multidisciplinary team of 4 designers and 4 front-end developers dedicated to improving UI/UX across [Medgrupo's](https://medgrupo.com.br/?gad_source=1&gad_campaignid=20257185527&gbraid=0AAAAAo4iugy8jrtsxL8L2RkuAXCAFC9f8&gclid=Cj0KCQjwmYzIBhC6ARIsAHA3IkSCfe4xu5XxBlx0618Mt5sUIcXnANwGC94Zec7K-VlJ_AM6elhcXxcaArT8EALw_wcB) digital products. Responsible for defining design systems, developing reusable components, and crafting interaction patterns, animations, and gestures that elevate the user experience and ensure visual consistency across all platforms.
 
 <div>
   <a href="https://www.linkedin.com/in/alex-bleggi-377907201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
