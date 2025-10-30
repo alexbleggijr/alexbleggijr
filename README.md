@@ -20,7 +20,7 @@ Currently leading a multidisciplinary team of 4 designers and 4 front-end develo
 
 I was born in Brazil, but I am also an Italian citizen, as my family is of Italian origin. I spent about three years in Sydney, where I became fluent in English and made some wonderful friends.
 
-My favorite hobbies include digital drawing, painting, and sculpting; playing guitar; reading manga (_Berserk, Death Note, Attack on Titan..._); reading books (_The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories..._); gaming (_doom, quake, deadspace..._); watching series (_Rick and Morty, Vikings, Sons of Anarchy..._); watching movies (_Aliens, Event Horizon, The Matrix..._); listening to music; and going to the gym.
+My favorite hobbies include **digital drawing**, ** digital painting**, and **digital sculpting**; **playing guitar**; **reading manga** (_Berserk, Death Note, Attack on Titan..._); **reading books** (_The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories..._); **gaming** (_doom, quake, deadspace..._); **watching series** (_Rick and Morty, Vikings, Sons of Anarchy..._); **watching movies** (_Aliens, Event Horizon, The Matrix..._); **[listening to music](https://open.spotify.com/user/6fxgq33nqg0d0v06fac1irobq?si=deb8dc4cacce4e04)**; and **going to the gym**.
 
 Ahhh… I was also in a band! Unfortunately, I had to take a break after moving from my hometown. If you’d like to check out the band, feel free to visit the links [Spotify](https://open.spotify.com/artist/3iQqLK4NA4oBKLKGwwnXZO?si=B0m2tIWbS4yeTNaKUfwn6w), [Youtube](https://www.youtube.com/@KeepThemBlind).
 If you enjoy the genre and appreciate our work, please give us a thumbs-up and support the band 🤘❤️
