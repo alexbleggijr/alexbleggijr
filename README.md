@@ -18,30 +18,27 @@ Hi there! 👋 I’m Alex, a Front-End Developer with over 11 years of experienc
 
 I was born in Brazil, but I am also an Italian citizen, as my family is of Italian origin. I spent about three years in Sydney, where I became fluent in English and made some wonderful friends.
 
-My favorite hobbies include digital drawing, painting, and sculpting; playing guitar; reading manga (Berserk, Death Note, Attack on Titan, ...); reading books (The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories, ...); gaming (doom, quake, deadspace); watching series (Rick and Morty, Vikings, Sons of Anarchy, ...); watching movies (Aliens, Event Horizon, The Matrix, ...); listening to music; and going to the gym.
+My favorite hobbies include digital drawing, painting, and sculpting; playing guitar; reading manga (Berserk, Death Note, Attack on Titan, ...); reading books (The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories, ...); gaming (doom, quake, deadspace, ...); watching series (Rick and Morty, Vikings, Sons of Anarchy, ...); watching movies (Aliens, Event Horizon, The Matrix, ...); listening to music; and going to the gym.
 
-Ahhh… I was also in a band! Unfortunately, I had to take a break after moving from my hometown. If you’d like to check out the band, feel free to visit the links below.
+Ahhh… I was also in a band! Unfortunately, I had to take a break after moving from my hometown. If you’d like to check out the band, feel free to visit the links [Spotify]() [Youtube]().
 If you enjoy the genre and appreciate our work, please give us a thumbs-up and support the band 🤘❤️
 
 Now, a bit about my background in web development...
 
-My journey in web development began back in 2001. I attended high school and technical school simultaneously, and in 2003 I graduated with a technical degree in software development. During that time, I built a solid foundation in algorithms, Delphi, and SQL database development. However, my passion for chemistry and mathematics led me to pursue chemical engineering. I eventually left the course halfway through, realizing it wasn’t the right fit for me. I saved up and went to Sydney to study English, where I spent three years. In 2013, I returned to Brazil and resumed my studies in software development.
+My journey in web development began back in 2001. I attended high school and technical school simultaneously, and in 2003 I graduated with a technical degree in software development. During that time, I built a solid foundation in algorithms, **Delphi**, and **SQL database** development. However, my passion for **Chemistry** and **Mathematics** led me to pursue **Chemical Engineering**. I eventually left the course halfway through, realizing it wasn’t the right fit for me. I saved up and went to Sydney to study English, where I spent three years. In 2013, I returned to Brazil and resumed my studies in software development.
 
-However, my affinity for chemistry and mathematics was stronger at the time, so I decided to pursue chemical engineering. I completed about half of the course before realizing it wasn’t the career path I truly wanted. I saved some money and went to Sydney to study English, where I spent three years. In 2013, I returned to Brazil and resumed my studies in software development.
-
-n 2014, I officially began my career as a software developer at a small software factory, working mainly as a front-end developer on email marketing, hotsites, institutional websites, and e-commerce projects.
-During my two years there, I developed solid foundations in HTML, CSS, Web Accessibility, JavaScript, jQuery, Bootstrap, Less, Sass, Grunt, Gulp, and AngularJS.
+In 2014, I officially began my career as a software developer at a small software factory, working mainly as a front-end developer on **email marketing**, **hotsites**, **institutional websites**, and **e-commerce** projects.
+During my two years there, I developed solid foundations in **HTML**, **CSS**, **Web Accessibility**, **JavaScript**, **jQuery**, **Bootstrap**, **Less**, **Sass**, **Grunt**, **Gulp**, and **AngularJS**.
 
 In 2016, I joined Medgrupo, one of the largest medical education companies in the world, where I continue to work today.
-At Medgrupo, I’ve had the opportunity to participate in several projects, gaining valuable experience with a wide range of technologies and development tools such as Angular, Vue, React, Stencil, Storybook, Ionic, GSAP, Ionic Animations/Gestures, and many others.
-
-If you’d like, you can check out the full list of tools and technologies I’ve worked with and developed proficiency in.
+At Medgrupo, I’ve had the opportunity to participate in several projects, gaining valuable experience with a wide range of technologies and development tools such as **Angular**, **Vue.js**, **React.js**, **Stencil.js**, **Storybook**, **Ionic**, **GSAP**, **Ionic Animations/Gestures**, and many others.
 
 </details>
 
 ### Currently studying:
 
 - [`JavaScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [`Tailwind`](https://tailwindcss.com/)
 - [`React.js`](https://react.dev/)
 - [`React Native`](https://reactnative.dev/)
 
@@ -120,11 +117,19 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 - [`GSAP`](https://greensock.com/gsap)
 - [`Ionic Animations and Gestures`](https://ionicframework.com/docs/utilities/animations)
+- [`Auto Animate`](https://auto-animate.formkit.com/)
+- [`Framer Motion`](https://framermotionexamples.com/about)
 
 ### UI Libraries/Frameworks
 
 - [`Bootstrap`](https://getbootstrap.com)
 - [`Ionic Components`](https://ionicframework.com)
+- [`Tailwind`](https://tailwindcss.com/)
+- [`Radix UI`](https://www.radix-ui.com/)
+
+## Icon libraries
+
+- [`lucide`](https://lucide.dev/icons/)
 
 ### Methodologies/Guidelines
 
@@ -147,17 +152,27 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Cheatsheets](https://www.notion.so/01-Cheatsheets-29037ed69480806ca25fe793bc87c437)
 
+- [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/01-Cheatsheets-29037ed69480806ca25fe793bc87c437)
+- [JavaScript Cheatsheet by Alex Bleggi](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-28f37ed6948080b097d0e4772e7f3ca3)
+
 ## [Courses](https://www.notion.so/02-Courses-29037ed69480806ab980c7a6b4d3347a)
 
-Relevant courses completed.
-
+- [CSS and Sass Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-29037ed694808031bf19dc368acc0281)
+- [JavaScript Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-28f37ed694808076846bee966002cb1d)
 - [Tailwind Course by Diego Fernandes on Rocketseat](https://github.com/alexbleggijr/rocketseat-course-tailwind-diego-fernandes)
 
 ## [Trainning](https://www.notion.so/03-Trainning-29037ed6948080069c10fc925ddef3cf)
 
+- [React.js Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-on-Rocketseat-28d37ed69480805da12efa5fda4fe09a?pvs=25)
+- [React Native Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-on-Rocketseat-29637ed694808024902ed7354eb14597)
+
 ## [Books](https://www.notion.so/04-Books-29037ed6948080ae8f5cf9fabd3edf18)
 
+- [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-published-by-O-Reilly-28f37ed6948080f4a763e87ae12e119a)
+
 ## [Notes](https://www.notion.so/05-Notes-29237ed694808051af0df17c5a8be81d)
+
+- [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-29237ed6948080fc8760f8cc3b4b5829)
 
 ## Projects
 
