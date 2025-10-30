@@ -18,12 +18,12 @@ Hi there! 👋 I’m Alex, a Front-End Developer with over 11 years of experienc
 
 I was born in Brazil, but I am also an Italian citizen, as my family is of Italian origin. I spent about three years in Sydney, where I became fluent in English and made some wonderful friends.
 
-My favorite hobbies include digital drawing, painting, and sculpting; playing guitar; reading manga (Berserk, Death Note, Attack on Titan, ...); reading books (The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories, ...); gaming (doom, quake, deadspace, ...); watching series (Rick and Morty, Vikings, Sons of Anarchy, ...); watching movies (Aliens, Event Horizon, The Matrix, ...); listening to music; and going to the gym.
+My favorite hobbies include digital drawing, painting, and sculpting; playing guitar; reading manga (_Berserk, Death Note, Attack on Titan..._); reading books (_The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories..._); gaming (_doom, quake, deadspace..._); watching series (_Rick and Morty, Vikings, Sons of Anarchy..._); watching movies (_Aliens, Event Horizon, The Matrix..._); listening to music; and going to the gym.
 
 Ahhh… I was also in a band! Unfortunately, I had to take a break after moving from my hometown. If you’d like to check out the band, feel free to visit the links [Spotify](https://open.spotify.com/artist/3iQqLK4NA4oBKLKGwwnXZO?si=B0m2tIWbS4yeTNaKUfwn6w), [Youtube](https://www.youtube.com/@KeepThemBlind).
 If you enjoy the genre and appreciate our work, please give us a thumbs-up and support the band 🤘❤️
 
-Now, a bit about my background in web development...
+**Now, a bit about my background in web development...**
 
 My journey in web development began back in 2001. I attended high school and technical school simultaneously, and in 2003 I graduated with a technical degree in software development. During that time, I built a solid foundation in algorithms, **Delphi**, and **SQL database** development. However, my passion for **Chemistry** and **Mathematics** led me to pursue **Chemical Engineering**. I eventually left the course halfway through, realizing it wasn’t the right fit for me. I saved up and went to Sydney to study English, where I spent three years. In 2013, I returned to Brazil and resumed my studies in software development.
 
@@ -127,7 +127,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Tailwind`](https://tailwindcss.com/)
 - [`Radix UI`](https://www.radix-ui.com/)
 
-### Icon libraries
+### Icon Libraries
 
 - [`lucide`](https://lucide.dev/icons/)
 
@@ -152,7 +152,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Cheatsheets](https://www.notion.so/01-Cheatsheets-29037ed69480806ca25fe793bc87c437)
 
-- [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/01-Cheatsheets-29037ed69480806ca25fe793bc87c437)
+- [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/BEM-Methodology-Cheatsheet-by-Alex-Bleggi-28f37ed69480805c88a3e0ded6000adc)
 - [JavaScript Cheatsheet by Alex Bleggi](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-28f37ed6948080b097d0e4772e7f3ca3)
 
 ## [Courses](https://www.notion.so/02-Courses-29037ed69480806ab980c7a6b4d3347a)
