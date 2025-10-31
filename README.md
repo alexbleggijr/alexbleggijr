@@ -1,6 +1,8 @@
 # Alex Bleggi
 
-Hi there! 👋 I’m Alex, a Front-End Developer with over 11 years of experience building for the web. I’m passionate about **UI/UX** and **Design Systems**, bridging the gap between design and development to craft scalable, intuitive, and visually cohesive user experiences. Currently based in Brazil, I'm always exploring new ways to create elegant interfaces and improve design-to-code workflows.
+Hi there! 👋 I'm Alex, a **front-end developer** with 11+ years of experience building for the web. I specialize in UI/UX and Design Systems, bridging design and development to create scalable, cohesive, and intuitive interfaces.
+
+Currently leading a multidisciplinary team at Medgrupo, where I define Design Systems, develop reusable UI kits, and craft interaction patterns, animations, and gestures to ensure a consistent, high-quality user experience across all platforms.
 
 <div>
   <a href="https://www.linkedin.com/in/alex-bleggi-377907201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -16,22 +18,13 @@ Hi there! 👋 I’m Alex, a Front-End Developer with over 11 years of experienc
 
 <br/>
 
-I was born in Brazil, but I am also an Italian citizen, as my family is of Italian origin. I spent about three years in Sydney, where I became fluent in English and made some wonderful friends.
+I'm Alex — a front-end developer from Brazil and over 11 years of experience building for the web. I spent three years in Sydney, where I became fluent in English and fell in love with multicultural collaboration.
 
-My favorite hobbies include digital drawing, painting, and sculpting; playing guitar; reading manga (_Berserk, Death Note, Attack on Titan..._); reading books (_The Lord of the Rings, A Song of Ice and Fire, The Saxon Stories..._); gaming (_doom, quake, deadspace..._); watching series (_Rick and Morty, Vikings, Sons of Anarchy..._); watching movies (_Aliens, Event Horizon, The Matrix..._); listening to music; and going to the gym.
+Outside of work, I'm passionate about digital art, music, and gaming. I enjoy digital drawing and sculpting, playing guitar, reading manga and fantasy novels, watching sci-fi and action series, and hitting the gym. I even played in a band — you can find us on [Spotify](https://open.spotify.com/artist/3iQqLK4NA4oBKLKGwwnXZO?si=B0m2tIWbS4yeTNaKUfwn6w) and [Youtube](https://www.youtube.com/@KeepThemBlind) 🤘
 
-Ahhh… I was also in a band! Unfortunately, I had to take a break after moving from my hometown. If you’d like to check out the band, feel free to visit the links [Spotify](https://open.spotify.com/artist/3iQqLK4NA4oBKLKGwwnXZO?si=B0m2tIWbS4yeTNaKUfwn6w), [Youtube](https://www.youtube.com/@KeepThemBlind).
-If you enjoy the genre and appreciate our work, please give us a thumbs-up and support the band 🤘❤️
+My web development journey began in 2001, and after earning a technical degree in software development, I explored various technologies from Delphi to modern front-end frameworks. Since 2016, I’ve been at Medgrupo, one of the world’s leading medical education companies, where I currently lead a multidisciplinary team of designers and developers.
 
-**Now, a bit about my background in web development...**
-
-My journey in web development began back in 2001. I attended high school and technical school simultaneously, and in 2003 I graduated with a technical degree in software development. During that time, I built a solid foundation in algorithms, **Delphi**, and **SQL database** development. However, my passion for **Chemistry** and **Mathematics** led me to pursue **Chemical Engineering**. I eventually left the course halfway through, realizing it wasn’t the right fit for me. I saved up and went to Sydney to study English, where I spent three years. In 2013, I returned to Brazil and resumed my studies in software development.
-
-In 2014, I officially began my career as a software developer at a small software factory, working mainly as a front-end developer on **email marketing**, **hotsites**, **institutional websites**, and **e-commerce** projects.
-During my two years there, I developed solid foundations in **HTML**, **CSS**, **Web Accessibility**, **JavaScript**, **jQuery**, **Bootstrap**, **Less**, **Sass**, **Grunt**, **Gulp**, and **AngularJS**.
-
-In 2016, I joined Medgrupo, one of the largest medical education companies in the world, where I continue to work today.
-At Medgrupo, I’ve had the opportunity to participate in several projects, gaining valuable experience with a wide range of technologies and development tools such as **Angular**, **Vue.js**, **React.js**, **Stencil.js**, **Storybook**, **Ionic**, **GSAP**, **Ionic Animations/Gestures**, and many others.
+I focus on building scalable Design Systems, reusable UI kits, and crafting interactions, animations, and gestures that enhance usability and ensure a consistent experience across all products and platforms.
 
 </details>
 
@@ -181,5 +174,3 @@ Selected personal and academic projects.
 ### Personal Projects:
 
 ### Course Projects:
-
-</details>
