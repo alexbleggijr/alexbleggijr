@@ -35,7 +35,7 @@ During my two years there, I developed solid foundations in **HTML**, **CSS**, *
 In 2016, I joined Medgrupo, one of the largest medical education companies in the world, where I continue to work today.
 At [Medgrupo](https://medgrupo.com.br/?gad_source=1&gad_campaignid=20257185527&gbraid=0AAAAAo4iugy8jrtsxL8L2RkuAXCAFC9f8&gclid=Cj0KCQjwmYzIBhC6ARIsAHA3IkSCfe4xu5XxBlx0618Mt5sUIcXnANwGC94Zec7K-VlJ_AM6elhcXxcaArT8EALw_wcB), I've had the opportunity to participate in several projects, gaining valuable experience with a wide range of technologies and development tools such as **Vue.js**, **React.js**, **Angular**, **Stencil.js**, **Storybook**, **Ionic**, **GSAP**, **Ionic Animations/Gestures**, and **Many Others**.
 
-I'm currently leading a multidisciplinary team of **4 designers** and **4 front-end developers** dedicated to improving UI/UX design and development across Medgrupo's digital products. Responsible for defining **Design Systems**, developing reusable **UI Kits**, and crafting **Interaction Patterns**, **Animations**, and **Gestures** that elevate the user experience and ensure visual consistency across all products between all platforms.
+I'm currently leading a multidisciplinary team of **4 designers** and **4 front-end developers** dedicated to improving UI/UX design and UI/UX development across Medgrupo's digital products. Responsible for defining and developing **Design Systems**, reusable **UI Kits**, and crafting **Interaction Patterns**, **Animations**, and **Gestures** that elevate the user experience and ensure visual consistency across all products between all platforms.
 
 </details>
 
