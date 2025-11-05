@@ -174,3 +174,5 @@ Selected personal and academic projects.
 ### Personal Projects:
 
 ### Course Projects:
+
+- [Natours - Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://github.com/alexbleggijr/natours)
