@@ -175,4 +175,5 @@ Selected personal and academic projects.
 
 ### Course Projects:
 
+- [Trillo - Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://github.com/alexbleggijr/trillo)
 - [Natours - Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://github.com/alexbleggijr/natours)
