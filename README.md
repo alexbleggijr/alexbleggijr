@@ -143,27 +143,27 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 </details>
 
-## [Cheatsheets](https://www.notion.so/01-Cheatsheets-29037ed69480806ca25fe793bc87c437)
+## [Cheatsheets](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2a937ed69480803e8c61000c7cff3faa)
 
 - [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/BEM-Methodology-Cheatsheet-by-Alex-Bleggi-28f37ed69480805c88a3e0ded6000adc)
 - [JavaScript Cheatsheet by Alex Bleggi](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-28f37ed6948080b097d0e4772e7f3ca3)
 
-## [Courses](https://www.notion.so/02-Courses-29037ed69480806ab980c7a6b4d3347a)
+## [Courses](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080b2aa43000c229c1c28)
 
 - [CSS and Sass Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-29037ed694808031bf19dc368acc0281)
 - [JavaScript Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-28f37ed694808076846bee966002cb1d)
 - [Tailwind Course by Diego Fernandes on Rocketseat](https://github.com/alexbleggijr/rocketseat-course-tailwind-diego-fernandes)
 
-## [Trainning](https://www.notion.so/03-Trainning-29037ed6948080069c10fc925ddef3cf)
+## [Trainning](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed694808056bc0b000cfd0cf94b)
 
 - [React.js Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-on-Rocketseat-28d37ed69480805da12efa5fda4fe09a?pvs=25)
 - [React Native Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-on-Rocketseat-29637ed694808024902ed7354eb14597)
 
-## [Books](https://www.notion.so/04-Books-29037ed6948080ae8f5cf9fabd3edf18)
+## [Books](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080acbfe6000c5b2d8704)
 
 - [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-published-by-O-Reilly-28f37ed6948080f4a763e87ae12e119a)
 
-## [Notes](https://www.notion.so/05-Notes-29237ed694808051af0df17c5a8be81d)
+## [Notes](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080b79589000c09a37f49)
 
 - [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-29237ed6948080fc8760f8cc3b4b5829)
 
