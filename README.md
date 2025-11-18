@@ -145,27 +145,27 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Cheatsheets](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2a937ed69480803e8c61000c7cff3faa)
 
-- [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/BEM-Methodology-Cheatsheet-by-Alex-Bleggi-28f37ed69480805c88a3e0ded6000adc)
-- [JavaScript Cheatsheet by Alex Bleggi](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-28f37ed6948080b097d0e4772e7f3ca3)
+- [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/BEM-Methodology-Cheatsheet-by-Alex-Bleggi-2a937ed69480806ba498fd96477f6b34)
+- [JavaScript Cheatsheet by Alex Bleggi](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-2ae37ed69480800ab59bf3423fc616db)
 
 ## [Courses](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080b2aa43000c229c1c28)
 
-- [CSS and Sass Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-29037ed694808031bf19dc368acc0281)
-- [JavaScript Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-28f37ed694808076846bee966002cb1d)
-- [Tailwind Course by Diego Fernandes on Rocketseat](https://github.com/alexbleggijr/rocketseat-course-tailwind-diego-fernandes)
+- [CSS and Sass Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2ae37ed69480808fb19cdb86a011ebbc)
+- [JavaScript Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2ae37ed6948080c780d2d7cf94700521)
+- [Tailwind Course by Diego Fernandes on Rocketseat](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2ae37ed694808003af5ade1e0373f852)
 
 ## [Trainning](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed694808056bc0b000cfd0cf94b)
 
-- [React.js Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-on-Rocketseat-28d37ed69480805da12efa5fda4fe09a?pvs=25)
-- [React Native Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-on-Rocketseat-29637ed694808024902ed7354eb14597)
+- [React.js Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-on-Rocketseat-2ae37ed69480801b8143d2de2c2b4979)
+- [React Native Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-on-Rocketseat-2ae37ed6948080be9befd4bd88e1ff80)
 
 ## [Books](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080acbfe6000c5b2d8704)
 
-- [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-published-by-O-Reilly-28f37ed6948080f4a763e87ae12e119a)
+- [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-published-by-O-Reilly-2ae37ed69480804f8622d91942e2eecb)
 
 ## [Notes](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080b79589000c09a37f49)
 
-- [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-29237ed6948080fc8760f8cc3b4b5829)
+- [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2ae37ed694808001ac74f65f1b5df56b)
 
 ## Projects
 
