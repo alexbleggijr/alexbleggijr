@@ -152,6 +152,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 - [CSS and Sass Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2ae37ed69480808fb19cdb86a011ebbc)
 - [JavaScript Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2ae37ed6948080c780d2d7cf94700521)
+- [TypeScript Course by Maximilian Schwarzmüller on Udemy](https://www.notion.so/TypeScript-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2af37ed6948080fba74ee204cbad5be6)
 - [Tailwind Course by Diego Fernandes on Rocketseat](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2ae37ed694808003af5ade1e0373f852)
 
 ## [Trainning](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed694808056bc0b000cfd0cf94b)
