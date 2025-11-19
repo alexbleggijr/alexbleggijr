@@ -170,8 +170,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## Projects
 
-Selected personal and academic projects.
-
 ### Personal Projects:
 
 ### Course Projects:
