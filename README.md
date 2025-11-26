@@ -25,10 +25,10 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 - [`React Native`](https://reactnative.dev/)
 - [`Storybook`](https://storybook.js.org/)
 - [`Sass`](https://sass-lang.com/)
+- [`Ionic`](https://ionicframework.com/docs/)
 - [`Angular Material`](https://material.angular.dev/)
 - [`Tailwind`](https://tailwindcss.com/)
 - [`Nativewind`](https://www.nativewind.dev/)
-- [`Ionic`](https://ionicframework.com/docs/)
 - [`Gluestack`](https://gluestack.io/)
 
 ## About Me
