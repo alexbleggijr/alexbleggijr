@@ -31,10 +31,6 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 - [`Ionic`](https://ionicframework.com/docs/)
 - [`Gluestack`](https://gluestack.io/)
 
-### Most used languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexbleggijr&langs_count=10&layout=compact&theme=radical)](https://github.com/alexbleggijr/github-readme-stats)
-
 ## About Me
 
 <details>
