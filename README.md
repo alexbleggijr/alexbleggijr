@@ -13,7 +13,7 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 
 ### Currently studying:
 
-- [`JavaScript`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [`JavaScript Design Patterns`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [`Tailwind`](https://tailwindcss.com/)
 - [`React.js`](https://react.dev/)
 - [`React Native`](https://reactnative.dev/)
@@ -21,11 +21,18 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 ### Currently working with:
 
 - [`Stencil.js`](https://stenciljs.com/)
-- [`Sass`](https://sass-lang.com/)
-- [`Storybook`](https://storybook.js.org/)
 - [`Angular`](https://angular.dev/)
-- [`Ionic`](https://ionicframework.com/docs/)
+- [`React Native`](https://reactnative.dev/)
+
+- [`Storybook`](https://storybook.js.org/)
+
+- [`Sass`](https://sass-lang.com/)
+
 - [`Angular Material`](https://material.angular.dev/)
+- [`Tailwind`](https://tailwindcss.com/)
+- [`Nativewind`](https://www.nativewind.dev/)
+- [`Ionic`](https://ionicframework.com/docs/)
+- [`Gluestack`](https://gluestack.io/)
 
 ### Most used languages:
 
