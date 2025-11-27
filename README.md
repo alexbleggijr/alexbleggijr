@@ -20,16 +20,18 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 
 ### Currently working with:
 
+- [`Figma`](https://www.figma.com/)
+- [`Tokens Studio`](https://tokens.studio/)
+- [`Sass`](https://sass-lang.com/)
 - [`Stencil.js`](https://stenciljs.com/)
 - [`Angular`](https://angular.dev/)
 - [`React Native`](https://reactnative.dev/)
-- [`Storybook`](https://storybook.js.org/)
-- [`Sass`](https://sass-lang.com/)
 - [`Ionic`](https://ionicframework.com/docs/)
 - [`Angular Material`](https://material.angular.dev/)
 - [`Tailwind`](https://tailwindcss.com/)
 - [`Nativewind`](https://www.nativewind.dev/)
 - [`Gluestack`](https://gluestack.io/)
+- [`Storybook`](https://storybook.js.org/)
 
 ## About Me
 
