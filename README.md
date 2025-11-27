@@ -143,30 +143,30 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 </details>
 
-## [Cheatsheets](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2a937ed69480803e8c61000c7cff3faa)
+## [Trainning](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
-- [BEM Methodology Cheatsheet by Alex Bleggi](https://www.notion.so/BEM-Methodology-Cheatsheet-by-Alex-Bleggi-2a937ed69480806ba498fd96477f6b34)
-- [JavaScript Cheatsheet by Alex Bleggi](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-2ae37ed69480800ab59bf3423fc616db)
+- [React Native Training by Rodrigo Gonçalves on Rocketseat]()
+- [React.js Training by Gustavo Sales on Rocketseat]()
 
-## [Courses](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080b2aa43000c229c1c28)
+## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
 
-- [CSS and Sass Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2ae37ed69480808fb19cdb86a011ebbc)
-- [JavaScript Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2ae37ed6948080c780d2d7cf94700521)
-- [TypeScript Course by Maximilian Schwarzmüller on Udemy](https://www.notion.so/TypeScript-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2af37ed6948080fba74ee204cbad5be6)
-- [Tailwind Course by Diego Fernandes on Rocketseat](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2ae37ed694808003af5ade1e0373f852)
+- [Tailwind Course by Diego Fernandes on Rocketseat]()
+- [TypeScript Course by Maximilian Schwarzmüller on Udemy]()
+- [JavaScript Course by Jonas Schmedtmann on Udemy]()
+- [CSS and Sass Course by Jonas Schmedtmann on Udemy]()
+- [HTML and CSS Course by Jonas Schmedtmann on Udemy]()
 
-## [Trainning](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed694808056bc0b000cfd0cf94b)
+## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
-- [React.js Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-on-Rocketseat-2ae37ed69480801b8143d2de2c2b4979)
-- [React Native Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-on-Rocketseat-2ae37ed6948080be9befd4bd88e1ff80)
+- [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly]()
 
-## [Books](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080acbfe6000c5b2d8704)
+## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
-- [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-published-by-O-Reilly-2ae37ed69480804f8622d91942e2eecb)
+- [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
 
-## [Notes](https://www.notion.so/2a937ed6948080e3b475edfcd3945635?v=2ae37ed6948080b79589000c09a37f49)
+## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
-- [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2ae37ed694808001ac74f65f1b5df56b)
+## [Certidicates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
 
 ## Projects
 
