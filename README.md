@@ -178,8 +178,8 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [JavaScript · Course by Jonas Schmedtmann on Udemy]()
 - [CSS and Sass · Course by Jonas Schmedtmann on Udemy]()
 - [HTML and CSS · Course by Jonas Schmedtmann on Udemy]()
-- [Figma UI UX Design Essentials · Course by Daniel Walter Scott on Udemy]()
 - [Figma UI UX Design Advanced · Course by Daniel Walter Scott on Udemy]()
+- [Figma UI UX Design Essentials · Course by Daniel Walter Scott on Udemy]()
 
 ## [Projects](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b837ed6948080b999f8000c37c799e9)
 
