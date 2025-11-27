@@ -145,28 +145,41 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Trainning](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
-- [React Native Training by Rodrigo Gonçalves on Rocketseat]()
-- [React.js Training by Gustavo Sales on Rocketseat]()
+- [React Native · Training by Rodrigo Gonçalves on Rocketseat]()
+- [React.js · Training by Gustavo Sales on Rocketseat]()
+- [FullCycle Junior · Training by Various Tutors at FullCycle]()
 
 ## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
 
-- [Tailwind Course by Diego Fernandes on Rocketseat]()
-- [TypeScript Course by Maximilian Schwarzmüller on Udemy]()
-- [JavaScript Course by Jonas Schmedtmann on Udemy]()
-- [CSS and Sass Course by Jonas Schmedtmann on Udemy]()
-- [HTML and CSS Course by Jonas Schmedtmann on Udemy]()
+- [Tailwind · Course by Diego Fernandes on Rocketseat]()
+- [Web Components and Stencil.js · Course by Maximilian Schwarzmüller on Udemy]()
+- [TypeScript · Course by Maximilian Schwarzmüller on Udemy]()
+- [JavaScript · Course by Jonas Schmedtmann on Udemy]()
+- [CSS and Sass · Course by Jonas Schmedtmann on Udemy]()
+- [HTML and CSS · Course by Jonas Schmedtmann on Udemy]()
+- [Figma UI UX Design Essentials · Course by Daniel Walter Scott on Udemy]()
+- [Figma UI UX Design Advanced · Course by Daniel Walter Scott on Udemy]()
 
 ## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
-- [JavaScript Design Patterns 2ª Edition Book by Addy Osmani published by O'Reilly]()
+- [JavaScript Design Patterns 2ª Edition · Book by Addy Osmani published by O'Reilly]()
 
 ## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
-- [CSS Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
+- [CSS · Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
 
 ## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
-## [Certidicates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
+## [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
+
+- [Tailwind · Course by Diego Fernandes on Rocketseat]()
+- [Web Components and Stencil.js · Course by Maximilian Schwarzmüller on Udemy]()
+- [TypeScript · Course by Maximilian Schwarzmüller on Udemy]()
+- [JavaScript · Course by Jonas Schmedtmann on Udemy]()
+- [CSS and Sass · Course by Jonas Schmedtmann on Udemy]()
+- [HTML and CSS · Course by Jonas Schmedtmann on Udemy]()
+- [Figma UI UX Design Essentials · Course by Daniel Walter Scott on Udemy]()
+- [Figma UI UX Design Advanced · Course by Daniel Walter Scott on Udemy]()
 
 ## Projects
 
