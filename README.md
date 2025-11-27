@@ -189,6 +189,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ### Course Projects:
 
-- [Nexter · Couse Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
-- [Trillo · Couse Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
-- [Natours · Couse Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
+- [Nexter · Course Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
+- [Trillo · Course Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
+- [Natours · Course Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
