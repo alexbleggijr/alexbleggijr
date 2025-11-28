@@ -196,6 +196,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ### Course Projects:
 
-- [Nexter · Course Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/Nexter-Course-Project-developed-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b937ed694808054a7d1f548c066ed5e)
-- [Trillo · Course Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/Trillo-Course-Project-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b937ed6948080daa786ce072dec44f7)
-- [Natours · Course Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/Natours-Course-Project-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b837ed69480801abc5fdbdd7d1d9c46)
+- [Nexter · Course Project developed in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://alexbleggi-nexter.netlify.app/)
+- [Trillo · Course Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://alexbleggi-trillo.netlify.app/)
+- [Natours · Course Project in the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://alexbleggi-natours.netlify.app/)
