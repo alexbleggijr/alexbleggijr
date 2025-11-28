@@ -179,7 +179,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 ## [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
 
 - [Git and Github · Training by Various Tutors at FullCycle](https://www.notion.so/Git-and-Github-Training-by-Various-Tutors-at-FullCycle-2b737ed6948080ef9b65c13da82de5e8)
-- Tailwind · Course by Diego Fernandes on Rocketseat
+- [Tailwind · Course by Diego Fernandes on Rocketseat](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b637ed69480801c8e96c478d4d0c677)
 - Web Components and Stencil.js · Course by Maximilian Schwarzmüller on Udemy
 - TypeScript · Course by Maximilian Schwarzmüller on Udemy
 - [JavaScript · Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2b937ed6948080d48b93ca42a2329fc5)
