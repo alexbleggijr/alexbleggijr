@@ -172,6 +172,10 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
+- [JavaScript · Cheatsheet by Alex Bleggi]()
+- [BEM Methodology · Cheatsheet by Alex Bleggi]()
+- [Git · Cheatsheet by Alex Bleggi]()
+
 ## [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
 
 - [Git and Github · Training by Various Tutors at FullCycle](https://www.notion.so/Git-and-Github-Training-by-Various-Tutors-at-FullCycle-2b737ed6948080ef9b65c13da82de5e8)
