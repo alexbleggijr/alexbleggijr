@@ -147,28 +147,28 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Trainning](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
-- [React Native · Training by Rodrigo Gonçalves on Rocketseat]()
-- [React.js · Training by Gustavo Sales on Rocketseat]()
-- [FullCycle Junior · Training by Various Tutors at FullCycle]()
+- [React Native · Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a)
+- [React.js · Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525)
+- [FullCycle Junior · Training by Various Tutors at FullCycle](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042)
 
 ## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
 
-- [Tailwind · Course by Diego Fernandes on Rocketseat]()
-- [Web Components and Stencil.js · Course by Maximilian Schwarzmüller on Udemy]()
-- [TypeScript · Course by Maximilian Schwarzmüller on Udemy]()
-- [JavaScript · Course by Jonas Schmedtmann on Udemy]()
-- [CSS and Sass · Course by Jonas Schmedtmann on Udemy]()
-- [HTML and CSS · Course by Jonas Schmedtmann on Udemy]()
-- [Figma UI UX Design Advanced · Course by Daniel Walter Scott on Udemy]()
-- [Figma UI UX Design Essentials · Course by Daniel Walter Scott on Udemy]()
+- [Tailwind · Course by Diego Fernandes on Rocketseat](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b737ed69480800a8947d92d051c4a0c)
+- [Web Components and Stencil.js · Course by Maximilian Schwarzmüller on Udemy](https://www.notion.so/Web-Components-and-Stencil-js-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2b837ed6948080dba857d2210c6807a1)
+- [TypeScript · Course by Maximilian Schwarzmüller on Udemy](https://www.notion.so/TypeScript-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2b837ed69480801e95acc337526a8b57)
+- [JavaScript · Course by Jonas Schmedtmann on Udemy](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2b737ed6948080098936f2516a8ee9f7)
+- [CSS and Sass · Course by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080cf938cd23c536121dd)
+- [HTML and CSS · Course by Jonas Schmedtmann on Udemy](https://www.notion.so/HTML-and-CSS-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080849f5ef76fc29d8a72)
+- [Figma UI UX Design Advanced · Course by Daniel Walter Scott on Udemy](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed69480808cb8f5ebe146bf8b67)
+- [Figma UI UX Design Essentials · Course by Daniel Walter Scott on Udemy](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed6948080018892d05c91cd437d)
 
 ## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
-- [JavaScript Design Patterns 2ª Edition · Book by Addy Osmani published by O'Reilly]()
+- [JavaScript Design Patterns 2ª Edition · Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-Published-by-O-Reilly-2b537ed6948080db800eca9895d2b5b5)
 
 ## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
-- [CSS · Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy]()
+- [CSS · Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019)
 
 ## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
