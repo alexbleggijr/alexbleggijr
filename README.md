@@ -133,13 +133,13 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Adobe Illustrator`](https://www.adobe.com/br/products/illustrator.html)
 - [`Figma`](https://www.figma.com)
 
-## 🎓 [Training](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
+## [Training](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
 - [React Native](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a) · [Training](https://www.rocketseat.com.br/formacao/react-native?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by [Rodrigo Gonçalves](https://github.com/orodrigogo) at [Rocketseat](https://www.rocketseat.com.br/)
 - [React.js](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525) · [Training](https://www.rocketseat.com.br/formacao/react?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by Gustavo Sales at [Rocketseat](https://www.rocketseat.com.br/)
 - [FullCycle Junior](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042) · [Training](https://curso.fullcycle.com.br/fc4juniors-bf25/?utm_source=site-fullcycle&utm_medium=menu-site&utm_content=org_menu_site_fullcycle_juniors) by Various Tutors at [FullCycle](https://curso.fullcycle.com.br/full-cycle-4-0-ia-bf25/)
 
-## 🎓 [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
+## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
 
 - [Tailwind](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b737ed69480800a8947d92d051c4a0c) · [Course](https://app.rocketseat.com.br/journey/masterizando-o-tailwind/overview) by [Diego Fernandes](https://github.com/diego3g) at [Rocketseat](https://www.rocketseat.com.br/)
 - [Web Components and Stencil.js](https://www.notion.so/Web-Components-and-Stencil-js-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2b837ed6948080dba857d2210c6807a1) · [Course](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/) by [Maximilian Schwarzmüller](https://www.udemy.com/course/understanding-typescript/?couponCode=CP251129CMG2#instructor-1) at [Udemy](https://www.udemy.com/)
@@ -150,21 +150,21 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [Figma UI UX Design Advanced](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed69480808cb8f5ebe146bf8b67) · [Course](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-at-Udemy-2b837ed69480808cb8f5ebe146bf8b67) by [Daniel Walter Scott](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/?couponCode=CP251129CMG2#instructor-1) at [Udemy](https://www.udemy.com/)
 - [Figma UI UX Design Essentials](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed6948080018892d05c91cd437d) · [Course](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/) by [Daniel Walter Scott](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/?couponCode=CP251129CMG2#instructor-1) at [Udemy](https://www.udemy.com/)
 
-## 📘 [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
+## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
 - [JavaScript Design Patterns 2ª Edition](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-Published-by-O-Reilly-2b537ed6948080db800eca9895d2b5b5) · [Book](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) by [Addy Osmani](https://github.com/addyosmani) published by [O'Reilly](https://www.oreilly.com/)
 
-## 📝 [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
+## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
 - CSS · [Notes](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019) from the Course [CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) by [Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=CP251129CMG2#instructor-1) at [Udemy](https://www.udemy.com/)
 
-## 💡 [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
+## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
 - JavaScript · [Cheatsheet](https://www.notion.so/JavaScript-Cheatsheet-by-Alex-Bleggi-2b837ed6948080f18bdbd71062299f44) by [Alex Bleggi]()
 - BEM Methodology · [Cheatsheet](https://www.notion.so/BEM-Methodology-Cheatsheet-by-Alex-Bleggi-2b837ed6948080e1aab7ffe10789f066) by [Alex Bleggi]()
 - Git · [Cheatsheet](https://www.notion.so/Git-Cheatsheet-by-Alex-Bleggi-2b837ed69480803492bdf6724fab8c3b) by [Alex Bleggi]()
 
-## 📜 [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
+## [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
 
 - [Git and GitHub](https://www.notion.so/Git-and-Github-Training-by-Various-Tutors-at-FullCycle-2b737ed6948080ef9b65c13da82de5e8) · [Certificate](https://fullcycle.com.br/certificado/d7eaa27a-103f-4373-8622-bdd251f22ceb/) issued for [Training](https://curso.fullcycle.com.br/fc4juniors-bf25/?utm_source=site-fullcycle&utm_medium=menu-site&utm_content=org_menu_site_fullcycle_juniors) by Various Tutors at [FullCycle](https://curso.fullcycle.com.br/full-cycle-4-0-ia-bf25/)
 - [Tailwind](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b637ed69480801c8e96c478d4d0c677) · [Certificate](https://app.rocketseat.com.br/certificates/edc290a7-934b-43a4-bf32-13a13f76fdc1) issued for [Course](https://app.rocketseat.com.br/journey/masterizando-o-tailwind/overview) by [Diego Fernandes](https://github.com/diego3g) at [Rocketseat](https://www.rocketseat.com.br/)
@@ -178,7 +178,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [General English at Navitas English, Sydney, Australia](https://www.notion.so/General-English-at-Navitas-English-Sydney-Australia-2b637ed6948080d6a55fda0e87672b6b)
 - [Power English Evening at Navitas English, Sydney, Australia](https://www.notion.so/Power-English-Evening-at-Navitas-English-Sydney-Australia-2b637ed6948080aba376dc11be95a975)
 
-## 📐 [Projects](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b837ed6948080b999f8000c37c799e9)
+## [Projects](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b837ed6948080b999f8000c37c799e9)
 
 ### Personal Projects:
 
