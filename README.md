@@ -35,7 +35,7 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 
 ## About Me
 
-I'm Alex — a front-end developer from Brazil and over 11 years of experience building for the web. I spent three years in Sydney, where I became fluent in English and fell in love with multicultural collaboration.
+I'm Alex!!! a front-end developer from Brazil and over 11 years of experience building for the web.
 
 Outside of work, I'm passionate about digital art, music, and gaming. I enjoy digital drawing and sculpting, playing guitar, reading manga and fantasy novels, watching sci-fi and action series, and hitting the gym. I even played in a band — you can find us on [Spotify](https://open.spotify.com/artist/3iQqLK4NA4oBKLKGwwnXZO?si=B0m2tIWbS4yeTNaKUfwn6w) and [Youtube](https://www.youtube.com/@KeepThemBlind) 🤘
 
