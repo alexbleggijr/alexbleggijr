@@ -148,7 +148,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [CSS and Sass](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080cf938cd23c536121dd) · [Course]() by [Jonas Schmedtmann]() on [Udemy]()
 - [HTML and CSS](https://www.notion.so/HTML-and-CSS-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080849f5ef76fc29d8a72) · [Course]() by [Jonas Schmedtmann]() on [Udemy]()
 - [Figma UI UX Design Advanced](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed69480808cb8f5ebe146bf8b67) · [Course]() by [Daniel Walter Scott]() on [Udemy]()
-- [Figma UI UX Design Essentials](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed6948080018892d05c91cd437d) · [Course] by [Daniel Walter Scott] on [Udemy]()
+- [Figma UI UX Design Essentials](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed6948080018892d05c91cd437d) · [Course](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/) by [Daniel Walter Scott](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
 
 ## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
