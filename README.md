@@ -135,13 +135,13 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Training](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
-- [React Native](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a) · [Training](https://www.rocketseat.com.br/formacao/react-native?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by Rodrigo Gonçalves on [Rocketseat](https://www.rocketseat.com.br/)
+- [React Native](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a) · [Training](https://www.rocketseat.com.br/formacao/react-native?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by [Rodrigo Gonçalves](https://github.com/orodrigogo) on [Rocketseat](https://www.rocketseat.com.br/)
 - [React.js](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525) · [Training](https://www.rocketseat.com.br/formacao/react?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by Gustavo Sales on [Rocketseat](https://www.rocketseat.com.br/)
 - [FullCycle Junior](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042) · [Training](https://curso.fullcycle.com.br/fc4juniors-bf25/?utm_source=site-fullcycle&utm_medium=menu-site&utm_content=org_menu_site_fullcycle_juniors) by Various Tutors at [FullCycle](https://curso.fullcycle.com.br/full-cycle-4-0-ia-bf25/)
 
 ## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
 
-- [Tailwind](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b737ed69480800a8947d92d051c4a0c) · [Course]() by Diego Fernandes on [Rocketseat](https://www.rocketseat.com.br/)
+- [Tailwind](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b737ed69480800a8947d92d051c4a0c) · [Course]() by [Diego Fernandes](https://github.com/diego3g) on [Rocketseat](https://www.rocketseat.com.br/)
 - [Web Components and Stencil.js](https://www.notion.so/Web-Components-and-Stencil-js-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2b837ed6948080dba857d2210c6807a1) · [Course](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/) by [Maximilian Schwarzmüller](https://www.udemy.com/course/understanding-typescript/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
 - [TypeScript](https://www.notion.so/TypeScript-Course-by-Maximilian-Schwarzm-ller-on-Udemy-2b837ed69480801e95acc337526a8b57) · [Course](https://www.udemy.com/course/understanding-typescript/) by [Maximilian Schwarzmüller](https://www.udemy.com/course/understanding-typescript/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
 - [JavaScript](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2b737ed6948080098936f2516a8ee9f7) · [Course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ACCAGE0923) by [Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
@@ -152,7 +152,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
-- [JavaScript Design Patterns 2ª Edition](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-Published-by-O-Reilly-2b537ed6948080db800eca9895d2b5b5) · [Book](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) by Addy Osmani published by [O'Reilly](https://www.oreilly.com/)
+- [JavaScript Design Patterns 2ª Edition](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-Published-by-O-Reilly-2b537ed6948080db800eca9895d2b5b5) · [Book](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) by [Addy Osmani](https://github.com/addyosmani) published by [O'Reilly](https://www.oreilly.com/)
 
 ## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
