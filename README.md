@@ -35,11 +35,6 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 
 ## About Me
 
-<details>
-<summary><b>🔥 Open to show more:</b></summary>
-
-<br/>
-
 I'm Alex — a front-end developer from Brazil and over 11 years of experience building for the web. I spent three years in Sydney, where I became fluent in English and fell in love with multicultural collaboration.
 
 Outside of work, I'm passionate about digital art, music, and gaming. I enjoy digital drawing and sculpting, playing guitar, reading manga and fantasy novels, watching sci-fi and action series, and hitting the gym. I even played in a band — you can find us on [Spotify](https://open.spotify.com/artist/3iQqLK4NA4oBKLKGwwnXZO?si=B0m2tIWbS4yeTNaKUfwn6w) and [Youtube](https://www.youtube.com/@KeepThemBlind) 🤘
@@ -47,8 +42,6 @@ Outside of work, I'm passionate about digital art, music, and gaming. I enjoy di
 My web development journey began in 2001, and after earning a technical degree in software development, I explored various technologies from Delphi to modern front-end frameworks. Since 2016, I’ve been at [Medgrupo](https://medgrupo.com.br/), one of the world’s leading medical education companies, where I currently lead a multidisciplinary team of designers and developers.
 
 I focus on building scalable **Design Systems**, **reusable UI kits**, and crafting **Interactions**, **Animations**, and **Gestures** that enhance usability and ensure a consistent experience across all products and platforms.
-
-</details>
 
 ## Knowledge
 
