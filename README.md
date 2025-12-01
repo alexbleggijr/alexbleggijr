@@ -152,11 +152,11 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Books](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed694808130b298000c0b15bf9b)
 
-- [JavaScript Design Patterns 2ª Edition · Book by Addy Osmani published by O'Reilly](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-Published-by-O-Reilly-2b537ed6948080db800eca9895d2b5b5)
+- [JavaScript Design Patterns 2ª Edition](https://www.notion.so/JavaScript-Design-Patterns-2-Edition-Book-by-Addy-Osmani-Published-by-O-Reilly-2b537ed6948080db800eca9895d2b5b5) · [Book](https://www.oreilly.com/library/view/learning-javascript-design/9781098139865/) by Addy Osmani published by [O'Reilly](https://www.oreilly.com/)
 
 ## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
-- [CSS · Notes from the Course CSS and Sass by Jonas Schmedtmann on Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019)
+- [CSS](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019) · Notes from the Course [CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) by [Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
 
 ## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
