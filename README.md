@@ -175,8 +175,10 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [HTML and CSS](https://www.notion.so/HTML-and-CSS-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080788258fa7286bd2c1b) · [Certificate](https://www.udemy.com/certificate/UC-f65ae995-8005-427d-8e34-f0226a580a0f/) issued for the [Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) at [Udemy](https://www.udemy.com/)
 - [Figma UI UX Design Advanced](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed69480801bb6e8c9eb589eae16) · [Certificate](https://www.udemy.com/certificate/UC-f3bb5c39-f0f4-43a4-bf68-81283d31c3cf/) issued for the [Course](https://www.udemy.com/course/figma-ui-ux-design-advanced-tutorial/) by [Daniel Walter Scott](https://www.udemy.com/user/danielwalterscott/) at [Udemy](https://www.udemy.com/)
 - [Figma UI UX Design Essentials](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b937ed694808052a02fee185873f8c4) · [Certificate](https://www.udemy.com/certificate/UC-0b0347f6-b593-4171-8100-7d28187c3a07/) issued for the [Course](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/) by [Daniel Walter Scott](https://www.udemy.com/user/danielwalterscott/) at [Udemy](https://www.udemy.com/)
-- [General English](https://www.notion.so/General-English-at-Navitas-English-Sydney-Australia-2b637ed6948080d6a55fda0e87672b6b) at [Navitas English](), Sydney, Australia
-- [Power English Evening](https://www.notion.so/Power-English-Evening-at-Navitas-English-Sydney-Australia-2b637ed6948080aba376dc11be95a975) at [Navitas English](), Sydney, Australia
+- [General English](https://www.navitasenglish.edu.au/courses/general-english/) [Certificate](https://www.notion.so/General-English-at-Navitas-English-Sydney-Australia-2b637ed6948080d6a55fda0e87672b6b) issued by [Navitas English](https://www.navitasenglish.edu.au/) at Sydney, Australia
+- [Power English Evening](https://www.navitasenglish.edu.au/courses/general-english/) [Certificate](https://www.notion.so/Power-English-Evening-at-Navitas-English-Sydney-Australia-2b637ed6948080aba376dc11be95a975) issued by [Navitas English](https://www.navitasenglish.edu.au/) at Sydney, Australia
+
+
 
 ## [Projects](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b837ed6948080b999f8000c37c799e9)
 
