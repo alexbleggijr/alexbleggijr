@@ -156,7 +156,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
-- CSS · [Notes]((https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019)) from the Course [CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) by [Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
+- CSS · [Notes](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019) from the Course [CSS and Sass](https://www.udemy.com/course/advanced-css-and-sass/) by [Jonas Schmedtmann](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=CP251129CMG2#instructor-1) on [Udemy](https://www.udemy.com/)
 
 ## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
@@ -166,7 +166,8 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
 
-- [Git and Github](https://www.notion.so/Git-and-Github-Training-by-Various-Tutors-at-FullCycle-2b737ed6948080ef9b65c13da82de5e8) · Certificate emited on [Training] by Various Tutors at [FullCycle]()
+- [Git and GitHub(https://www.notion.so/Git-and-Github-Training-by-Various-Tutors-at-FullCycle-2b737ed6948080ef9b65c13da82de5e8) · [Certificate]() issued for [Training](https://curso.fullcycle.com.br/fc4juniors-bf25/?utm_source=site-fullcycle&utm_medium=menu-site&utm_content=org_menu_site_fullcycle_juniors) by Various Tutors at [FullCycle](https://curso.fullcycle.com.br/full-cycle-4-0-ia-bf25/)
+- Git and Github · Certificate emited on [Training] by Various Tutors at [FullCycle]()
 - [Tailwind · Course by Diego Fernandes on Rocketseat](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b637ed69480801c8e96c478d4d0c677)
 - Web Components and Stencil.js · Course by Maximilian Schwarzmüller on Udemy
 - TypeScript · Course by Maximilian Schwarzmüller on Udemy
