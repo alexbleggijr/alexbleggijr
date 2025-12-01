@@ -47,9 +47,6 @@ I focus on building scalable **Design Systems**, **reusable UI kits**, and craft
 
 A list of tools and technologies in which I have developed knowledge, experience, and proficiency.
 
-<details>
-<summary><b>🔥 Open to show more:</b></summary>
-
 ### Core:
 
 - [`HTML`](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -135,8 +132,6 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Adobe Photoshop`](https://www.adobe.com/br/products/photoshop.html)
 - [`Adobe Illustrator`](https://www.adobe.com/br/products/illustrator.html)
 - [`Figma`](https://www.figma.com)
-
-</details>
 
 ## [Training](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
