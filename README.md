@@ -135,8 +135,8 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Training](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
-- [React Native · Training by Rodrigo Gonçalves on Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a)
-- [React.js · Training by Gustavo Sales on Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525)
+- [React Native](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a) · [Training](https://www.rocketseat.com.br/formacao/react-native?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by Rodrigo Gonçalves on [Rocketseat](https://www.rocketseat.com.br/)
+- [React.js](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525) · [Training](https://www.rocketseat.com.br/formacao/react?utm_source=google&utm_medium=cpc&utm_campaign=&utm_term=rocketseat&utm_content=-&gad_source=1&gad_campaignid=21868326911&gbraid=0AAAAA-Qv4OnN8XfqTA7GV1EWhP653yZAt&gclid=EAIaIQobChMI87ry077_kAMVh15IAB3UMC2UEAAYASAAEgJA5vD_BwE) by Gustavo Sales on [Rocketseat](https://www.rocketseat.com.br/)
 - [FullCycle Junior · Training by Various Tutors at FullCycle](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042)
 
 ## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
