@@ -6,9 +6,6 @@ Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br
 
 <div>
   <a href="https://www.linkedin.com/in/alex-bleggi-377907201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.udemy.com/user/alex-bleggi-2" target="_blank"><img src="https://img.shields.io/badge/-udemy-%230077B5?style=for-the-badge&logo=udemy&logoColor=white&color=a435f0" target="_blank"></a>
-  <a href="https://www.behance.net/alexbleggi" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=behance&logoColor=white&color=0057ff" target="_blank"></a>
-  <a href="https://soundcloud.com/alex-bleggi" target="_blank"><img src="https://img.shields.io/badge/-soundcloud-%230077B5?style=for-the-badge&logo=soundcloud&logoColor=white&color=f50" target="_blank"></a>
 </div>
 
 ### Currently studying:
