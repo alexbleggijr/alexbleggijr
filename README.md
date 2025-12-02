@@ -4,10 +4,6 @@ Hi there! 👋 I'm Alex, a **front-end developer** with 11+ years of experience 
 
 Currently leading a multidisciplinary team at [Medgrupo](https://medgrupo.com.br/), where I define **Design Systems**, develop **reusable UI kits**, and craft **Interaction Patterns**, **Animations**, and **Gestures** to ensure a consistent, high-quality user experience across all platforms.
 
-<div>
-  <a href="https://www.linkedin.com/in/alex-bleggi-377907201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
 ### Currently studying:
 
 - [`JavaScript Design Patterns`](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
