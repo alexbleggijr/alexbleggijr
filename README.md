@@ -130,6 +130,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 - [React Native](https://github.com/alexbleggijr/rocketseat-training-react-native-rodrigo-goncalves) · [Training by Rodrigo Gonçalves at Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a)
 - [React.js](https://github.com/alexbleggijr/rocketseat-training-react-gustavo-sales) · [Training by Gustavo Sales at Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525)
+- [Angular](https://github.com/alexbleggijr/rocketseat-training-angular-felipe-freitas) · [Training by Felipe Freitas at Rocketseat](https://www.notion.so/Angular-Training-by-Felipe-Freitas-at-Rocketseat-2bd37ed6948080e6a8aaf73c947c5158)
 - [FullCycle Junior](https://github.com/alexbleggijr/fullcycle-4-training-junior-various-tutors) · [Training by Various Tutors at FullCycle](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042)
 
 ## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
