@@ -130,7 +130,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 - [React Native]() · [Training by Rodrigo Gonçalves at Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a)
 - [React.js]() · [Training by Gustavo Sales at Rocketseat](https://www.notion.so/React-js-Training-by-Gustavo-Sales-at-Rocketseat-2b037ed6948080aebabbffcdfa45f525)
-- [FullCycle Junior]() · [Training by Various Tutors at FullCycle](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042))
+- [FullCycle Junior]() · [Training by Various Tutors at FullCycle](https://www.notion.so/FullCycle-Junior-Training-by-Various-Tutors-at-FullCycle-2b037ed69480804ead5dda9b1690d042)
 
 ## [Courses](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081468fd5000c11c93486)
 
@@ -149,7 +149,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Notes](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081bdb1bf000cdd496d9c)
 
-- CSS · [Notes from the Course CSS and Sass by Jonas Schmedtmann at Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019)
+- [CSS · Notes from the Course CSS and Sass by Jonas Schmedtmann at Udemy](https://www.notion.so/CSS-Notes-from-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-on-Udemy-2b437ed6948080c39925c4e6ac6f9019)
 
 ## [Cheatsheets](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed69480819f8142000c52531e97)
 
@@ -159,17 +159,17 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ## [Certificates](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b637ed6948080cc93de000c45314a3e)
 
-- [Git and GitHub]() · [Certificate](https://fullcycle.com.br/certificado/d7eaa27a-103f-4373-8622-bdd251f22ceb/) issued for the [Training](https://curso.fullcycle.com.br/fc4juniors-bf25/?utm_source=site-fullcycle&utm_medium=menu-site&utm_content=org_menu_site_fullcycle_juniors) by Various Tutors at [FullCycle](https://curso.fullcycle.com.br/full-cycle-4-0-ia-bf25/)
-- [Tailwind](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b637ed69480801c8e96c478d4d0c677) · [Certificate](https://app.rocketseat.com.br/certificates/edc290a7-934b-43a4-bf32-13a13f76fdc1) issued for the [Course](https://app.rocketseat.com.br/journey/masterizando-o-tailwind/overview) by [Diego Fernandes](https://github.com/diego3g) at [Rocketseat](https://www.rocketseat.com.br/)
-- Web Components and Stencil.js · Certificate issued for the [Course](https://www.udemy.com/course/web-components-stenciljs-build-custom-html-elements/) by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) at [Udemy](https://www.udemy.com/)
-- TypeScript · Certificate issued for the [Course](https://www.udemy.com/course/understanding-typescript/) by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) at [Udemy](https://www.udemy.com/)
-- [JavaScript](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2b937ed6948080d48b93ca42a2329fc5) · [Certificate](https://www.udemy.com/certificate/UC-521fe768-4824-4b5d-b336-73e08bb7716d/) issued for the [Course](https://www.udemy.com/course/the-complete-javascript-course/?couponCode=ACCAGE0923) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) at [Udemy](https://www.udemy.com/)
-- [CSS and Sass](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed69480800683b6c31f0e88255a) · [Certificate](https://www.udemy.com/certificate/UC-ffea01b2-0d2c-450e-be4f-4735cf37030c/) issued for the [Course](https://www.udemy.com/course/advanced-css-and-sass/) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) at [Udemy](https://www.udemy.com/)
-- [HTML and CSS](https://www.notion.so/HTML-and-CSS-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080788258fa7286bd2c1b) · [Certificate](https://www.udemy.com/certificate/UC-f65ae995-8005-427d-8e34-f0226a580a0f/) issued for the [Course](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/) at [Udemy](https://www.udemy.com/)
-- [Figma UI UX Design Advanced](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed69480801bb6e8c9eb589eae16) · [Certificate](https://www.udemy.com/certificate/UC-f3bb5c39-f0f4-43a4-bf68-81283d31c3cf/) issued for the [Course](https://www.udemy.com/course/figma-ui-ux-design-advanced-tutorial/) by [Daniel Walter Scott](https://www.udemy.com/user/danielwalterscott/) at [Udemy](https://www.udemy.com/)
-- [Figma UI UX Design Essentials](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b937ed694808052a02fee185873f8c4) · [Certificate](https://www.udemy.com/certificate/UC-0b0347f6-b593-4171-8100-7d28187c3a07/) issued for the [Course](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/) by [Daniel Walter Scott](https://www.udemy.com/user/danielwalterscott/) at [Udemy](https://www.udemy.com/)
-- [General English](https://www.navitasenglish.edu.au/courses/general-english/) · [Certificate](https://www.notion.so/General-English-at-Navitas-English-Sydney-Australia-2b637ed6948080d6a55fda0e87672b6b) issued by [Navitas English](https://www.navitasenglish.edu.au/) at Sydney, Australia
-- [Power English Evening](https://www.navitasenglish.edu.au/courses/general-english/) · [Certificate](https://www.notion.so/Power-English-Evening-at-Navitas-English-Sydney-Australia-2b637ed6948080aba376dc11be95a975) issued by [Navitas English](https://www.navitasenglish.edu.au/) at Sydney, Australia
+- [Git and GitHub](https://www.notion.so/Git-and-Github-Training-by-Various-Tutors-at-FullCycle-2b737ed6948080ef9b65c13da82de5e8) · [Certificate issued for the Training by Various Tutors at FullCycle](https://fullcycle.com.br/certificado/d7eaa27a-103f-4373-8622-bdd251f22ceb/)
+- [Tailwind](https://www.notion.so/Tailwind-Course-by-Diego-Fernandes-on-Rocketseat-2b637ed69480801c8e96c478d4d0c677) · [Certificate issued for the Course by Diego Fernandes at Rocketseat](https://app.rocketseat.com.br/certificates/edc290a7-934b-43a4-bf32-13a13f76fdc1)
+- Web Components and Stencil.js · Certificate issued for the Course by Maximilian Schwarzmüller at Udemy
+- TypeScript · Certificate issued for the Course by Maximilian Schwarzmüller at Udemy
+- [JavaScript](https://www.notion.so/JavaScript-Course-by-Jonas-Schmedtmann-on-Udemy-2b937ed6948080d48b93ca42a2329fc5) · [Certificate issued for the Course by Jonas Schmedtmann at Udemy](https://www.udemy.com/certificate/UC-521fe768-4824-4b5d-b336-73e08bb7716d/)
+- [CSS and Sass](https://www.notion.so/CSS-and-Sass-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed69480800683b6c31f0e88255a) · [Certificate issued for the Course by Jonas Schmedtmann at Udemy](https://www.udemy.com/certificate/UC-ffea01b2-0d2c-450e-be4f-4735cf37030c/)
+- [HTML and CSS](https://www.notion.so/HTML-and-CSS-Course-by-Jonas-Schmedtmann-on-Udemy-2b837ed6948080788258fa7286bd2c1b) · [Certificate issued for the Course by Jonas Schmedtmann at Udemy](https://www.udemy.com/certificate/UC-f65ae995-8005-427d-8e34-f0226a580a0f/)
+- [Figma UI UX Design Advanced](https://www.notion.so/Figma-UI-UX-Design-Advanced-Course-by-Daniel-Walter-Scott-on-Udemy-2b837ed69480801bb6e8c9eb589eae16) · [Certificate issued for the Course by Daniel Walter Scott at Udemy](https://www.udemy.com/certificate/UC-f3bb5c39-f0f4-43a4-bf68-81283d31c3cf/)
+- [Figma UI UX Design Essentials](https://www.notion.so/Figma-UI-UX-Design-Essentials-Course-by-Daniel-Walter-Scott-on-Udemy-2b937ed694808052a02fee185873f8c4) · [Certificate issued for the Course by Daniel Walter Scott] at Udemy](https://www.udemy.com/certificate/UC-0b0347f6-b593-4171-8100-7d28187c3a07/)
+- [General English · Certificate issued by Navitas English at Sydney, Australia](https://www.notion.so/General-English-at-Navitas-English-Sydney-Australia-2b637ed6948080d6a55fda0e87672b6b)
+- [Power English Evening · Certificate issued by Navitas English at Sydney, Australia](https://www.notion.so/Power-English-Evening-at-Navitas-English-Sydney-Australia-2b637ed6948080aba376dc11be95a975)
 
 ## [Projects](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b837ed6948080b999f8000c37c799e9)
 
