@@ -178,6 +178,7 @@ A list of tools and technologies in which I have developed knowledge, experience
 
 ### Course Projects:
 
+- [Untitled UI](https://alexbleggi-untitled-ui.netlify.app/) · [Course Project developed in the Course · Tailwind by Diego Fernandes at Rocketseat]([https://www.notion.so/Nexter-Course-Project-Developed-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-at-Udemy-2b937ed694808054a7d1f548c066ed5e](https://www.notion.so/Untitled-UI-Course-Project-developed-in-the-Course-Tailwind-by-Diego-Fernandes-at-Rocketseat-2c537ed6948080acb066f505286ae725))
 - [Nexter](https://alexbleggi-nexter.netlify.app/) · [Course Project developed in the Course CSS and Sass by Jonas Schmedtmann at Udemy](https://www.notion.so/Nexter-Course-Project-Developed-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-at-Udemy-2b937ed694808054a7d1f548c066ed5e)
 - [Trillo](https://alexbleggi-trillo.netlify.app/) · [Course Project developed in the Course CSS and Sass by Jonas Schmedtmann at Udemy](https://www.notion.so/Trillo-Course-Project-Developed-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-at-Udemy-2b937ed6948080daa786ce072dec44f7)
 - [Natours](https://alexbleggi-natours.netlify.app/) · [Course Project developed in the Course CSS and Sass by Jonas Schmedtmann at Udemy](https://www.notion.so/Natours-Course-Project-Developed-in-the-Course-CSS-and-Sass-by-Jonas-Schmedtmann-at-Udemy-2b837ed69480801abc5fdbdd7d1d9c46)
