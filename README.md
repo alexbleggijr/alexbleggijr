@@ -126,6 +126,10 @@ A list of tools and technologies in which I have developed knowledge, experience
 - [`Adobe Illustrator`](https://www.adobe.com/br/products/illustrator.html)
 - [`Figma`](https://www.figma.com)
 
+## YouTube Content
+
+- [Complete AI Guide for Developers: LLMs, Agents and Spec-Driven Development](https://www.youtube.com/watch?v=bDFGS7tp2So)
+
 ## [Training](https://www.notion.so/2b037ed6948080419645f5310cb2c9e9?v=2b037ed6948081a395de000c6e67a5b0)
 
 - [React Native](https://github.com/alexbleggijr/rocketseat-training-react-native-rodrigo-goncalves) · [Training by Rodrigo Gonçalves at Rocketseat](https://www.notion.so/React-Native-Training-by-Rodrigo-Gon-alves-at-Rocketseat-2b137ed6948080048d5fd28834ea752a)
